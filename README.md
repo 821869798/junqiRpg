@@ -1,2 +1,2 @@
-junqiRpg是游戏户端不基于unity3d 5.2 实现
-junqiServer是游戏服务端，基于python3.5实现
+junqiRpg鏄父鎴忔埛绔紝鍩轰簬unity3d 5.2 瀹炵幇
+junqiServer鏄父鎴忔湇鍔＄锛屽熀浜巔ython3.5瀹炵幇
