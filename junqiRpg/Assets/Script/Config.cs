@@ -6,7 +6,7 @@ public class Config {
 	public int CellButtonWidth = 75;
 	public int gameType = 0;
 	public string name = "";
-	public string IPConfig = "121.42.152.177";
+	public string IPConfig = "127.0.0.1";
 
 	// 40 司令
 	// 39 军长
